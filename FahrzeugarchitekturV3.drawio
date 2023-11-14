@@ -1,0 +1,180 @@
+<mxfile host="Electron" modified="2023-11-13T11:39:06.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="l8d_fWrVGc04Ax93lULk" version="22.0.2" type="device">
+  <diagram name="Seite-1" id="SFNpNc_GPeSLoSLg5a1m">
+    <mxGraphModel dx="3379" dy="2381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8gJjzuQxZDsccatCpBbz-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;bdd&lt;/b&gt;&amp;nbsp;Fahrzeugarchitektur&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;labelX=150.2;align=left;spacingLeft=10;overflow=fill;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-470" width="1970" height="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-67" target="rY-0M_vdPN1AG2mdfaWG-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-67" target="rY-0M_vdPN1AG2mdfaWG-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-67" target="rY-0M_vdPN1AG2mdfaWG-107" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-67" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Block1&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;Sensoren&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="210" y="-145" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-71" target="rY-0M_vdPN1AG2mdfaWG-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-71" target="rY-0M_vdPN1AG2mdfaWG-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-71" target="rY-0M_vdPN1AG2mdfaWG-89" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-71" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Block1&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Selbst&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;Überwachung des Fahrzeugzustands&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;und Verhalten&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="360" y="-5" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-75" target="rY-0M_vdPN1AG2mdfaWG-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-75" target="rY-0M_vdPN1AG2mdfaWG-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-75" target="rY-0M_vdPN1AG2mdfaWG-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8gJjzuQxZDsccatCpBbz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="rY-0M_vdPN1AG2mdfaWG-75" target="8gJjzuQxZDsccatCpBbz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-75" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Block1&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Umwelt&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;Erkennung externer Bedingungen und Objekte&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50" y="-5" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-81" target="rY-0M_vdPN1AG2mdfaWG-96" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-81" target="rY-0M_vdPN1AG2mdfaWG-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-81" target="rY-0M_vdPN1AG2mdfaWG-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-81" target="rY-0M_vdPN1AG2mdfaWG-95" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-81" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Block1&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;Aktuation&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="770" y="-145" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-86" target="rY-0M_vdPN1AG2mdfaWG-99" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-86" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Block1&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Mapping Database&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;Speichert Kartendaten für Navigation und Lokalisierung&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="760" y="-370" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-87" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;Sensoren&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;IMU&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:center;&quot;&gt;Bewegung- und Orientierungssensorik&amp;nbsp;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="410" y="125" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-88" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;Sensoren&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;GPS/GNSS&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:center;&quot;&gt;Positionsbestimmung über Satelliten&amp;nbsp;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="410" y="235" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-89" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;Sensoren&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Odometer&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:center;&quot;&gt;Messung der zurückgelegten Strecke&amp;nbsp;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="410" y="345" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-90" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;Sensoren&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Radar&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:center;&quot;&gt;Radiowellen für Distanz-und Bewegungsdetektion&amp;nbsp;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="100" y="345" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-91" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;Sensoren&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;LiDAR&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:center;&quot;&gt;Laserscanner für 3D-Umgebungsmapping&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="100" y="235" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-92" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;Sensoren&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Kamera&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:center;&quot;&gt;Bildaufnahme für Objekterkennung&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="100" y="125" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-93" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;Aktuatoren&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Antrieb&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="660" y="-15" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-94" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;Aktuatoren&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Batterie&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="930" y="-15" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-95" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;Aktuatoren&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Bremse&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="660" y="85" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-96" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;Aktuatoren&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Lenkung&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="930" y="85" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-98" target="rY-0M_vdPN1AG2mdfaWG-81" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1593" y="220" />
+              <mxPoint x="1160" y="220" />
+              <mxPoint x="1160" y="-95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-98" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Block1&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;Kontrolle&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;(Befehlsgebung für Fahrzeugaktionen)&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="85" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-99" target="rY-0M_vdPN1AG2mdfaWG-98" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-99" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Block1&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;Planung:&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;-Global&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;-Verhalten&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;-Lokal&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="-50" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-101" target="rY-0M_vdPN1AG2mdfaWG-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-101" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Block1&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;Lokalisierung&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;(nutzt Informationen von Sensoren)&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="-50" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-107" target="rY-0M_vdPN1AG2mdfaWG-98" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-107" target="rY-0M_vdPN1AG2mdfaWG-99" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-107" target="rY-0M_vdPN1AG2mdfaWG-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rY-0M_vdPN1AG2mdfaWG-107" target="rY-0M_vdPN1AG2mdfaWG-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-107" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Block1&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;Zentrale Steuereinheit&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;(simuliert die Unterblöcke)&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="-170" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-108" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Block1&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;Externe Wahrnehmung&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;(verarbeitet Daten von Sensoren)&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="85" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-114" value="Sendet informationen und wird verwaltet von der zentralen Steuereinheit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="655" y="-212" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-118" value="sendet verarbeitet Lokalisierungsdaten&amp;nbsp;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="-422" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-121" value="beeinflusst die Kontrolle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="1740" y="55" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY-0M_vdPN1AG2mdfaWG-123" value="steuert die Aktuation&amp;nbsp;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="220" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8gJjzuQxZDsccatCpBbz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8gJjzuQxZDsccatCpBbz-1" target="rY-0M_vdPN1AG2mdfaWG-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8gJjzuQxZDsccatCpBbz-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Block1&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Unabhängige Notbremseinheit&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;Aktiviert die Notbemsung direkt bei Objekterkennung durch den Ultraschallsensor&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-370" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8gJjzuQxZDsccatCpBbz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8gJjzuQxZDsccatCpBbz-2" target="8gJjzuQxZDsccatCpBbz-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-70" y="520" />
+              <mxPoint x="-70" y="-320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8gJjzuQxZDsccatCpBbz-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;Sensoren&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Ultraschallsensor&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:center;&quot;&gt;Detektiert nahe Objekte durch Schallwellenreflektion&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="460" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8gJjzuQxZDsccatCpBbz-6" value="erhält Daten von Ultraschall" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-350" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8gJjzuQxZDsccatCpBbz-7" value="Befehlt die Notbremsung" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-352" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
