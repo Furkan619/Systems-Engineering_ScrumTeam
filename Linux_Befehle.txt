@@ -1,0 +1,25 @@
+sudo apt-get install update && sudo apt-get upgrade
+sudo apt-get update && sudo apt-get upgrade
+sudo apt install docker.io docker-compose -y
+
+GUI: 
+Toggle: ctrl + Alt + F3
+
+cd
+cd ..
+cc
+wget
+
+
+open-SSH: 
+sudo apt-get install openssh-server
+
+Prtainer: 
+sudo docker volume create portainer_data
+sudo docker run -d -p 8000:8000 -p 9443:9443 --name portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce:latest
+
+VM-Ware ESIX Lizenz: MH612-0CH56-M84G8-020K0-9XKL4
+
+make g++ -std=gnu++11 -Wall -Wextra -I ../lib ./*.cpp ../lib/can.cpp -o aufgabe.elf
+
+zabbix CheckMK
