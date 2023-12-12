@@ -1,0 +1,273 @@
+<mxfile host="app.diagrams.net" modified="2023-12-12T11:36:27.695Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5YADaUesxVBmQUeNrgk2" version="22.1.7" type="device">
+  <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
+    <mxGraphModel dx="1506" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8QVeg7aDXr-v9vp2et7-7" target="T8QVeg7aDXr-v9vp2et7-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1035" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-7" value="Objekt.Entfernung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="810" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8QVeg7aDXr-v9vp2et7-8" target="T8QVeg7aDXr-v9vp2et7-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-8" value="Objekt.Größe.Höhe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="380" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8QVeg7aDXr-v9vp2et7-9" target="T8QVeg7aDXr-v9vp2et7-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T8QVeg7aDXr-v9vp2et7-9" target="T8QVeg7aDXr-v9vp2et7-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-9" value="Objekt.Relative&lt;br&gt;Geschwindigkeit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="810" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="960" y="870" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-36" value="Auto bremsweg:&lt;br&gt;Bremsweg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-35">
+          <mxGeometry width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-37" value="ov" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-35">
+          <mxGeometry y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-38" value="" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;flipH=0;flipV=1;direction=east;rotation=0;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-35">
+          <mxGeometry x="170" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-39" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-35">
+          <mxGeometry x="150" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-83" value="cv" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-35">
+          <mxGeometry y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-86" value="bc" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-35">
+          <mxGeometry y="141" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8QVeg7aDXr-v9vp2et7-42" target="T8QVeg7aDXr-v9vp2et7-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-42" value="Objekt.Größe.Breite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="550" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8QVeg7aDXr-v9vp2et7-43" target="T8QVeg7aDXr-v9vp2et7-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="465" />
+              <mxPoint x="410" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-43" value="Auto.Bodenfreiheit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="445" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8QVeg7aDXr-v9vp2et7-44" target="T8QVeg7aDXr-v9vp2et7-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-44" value="Auto.Spurbreite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="620" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-45" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="350" width="200" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-46" value="überfahrbar : Entscheidung -&amp;nbsp;&lt;br&gt;überfahrbar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-45">
+          <mxGeometry width="200" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-47" value="oh" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-45">
+          <mxGeometry y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-48" value="" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;flipH=0;flipV=1;direction=east;rotation=0;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-45">
+          <mxGeometry x="170" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-49" value="r" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-45">
+          <mxGeometry x="150" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-52" value="cw" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-45">
+          <mxGeometry y="260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-51" value="ow" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-45">
+          <mxGeometry y="210" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-50" value="ch" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-45">
+          <mxGeometry y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-58" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="730" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-59" value="schneller : Entscheidung -&lt;br&gt;Schneller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-58">
+          <mxGeometry width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-60" value="v" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-58">
+          <mxGeometry y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-61" value="" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;flipH=0;flipV=1;direction=east;rotation=0;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-58">
+          <mxGeometry x="170" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-62" value="r" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-58">
+          <mxGeometry x="150" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-64" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="870" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-65" value="Objekt geschwindigkeit :&lt;br&gt;Geschwindigkeit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-64">
+          <mxGeometry width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-66" value="rv" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-64">
+          <mxGeometry y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-67" value="" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;flipH=0;flipV=1;direction=east;rotation=0;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-64">
+          <mxGeometry x="170" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-68" value="v" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-64">
+          <mxGeometry x="150" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-74" value="vv" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-64">
+          <mxGeometry y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8QVeg7aDXr-v9vp2et7-75" target="T8QVeg7aDXr-v9vp2et7-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="1060" />
+              <mxPoint x="470" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T8QVeg7aDXr-v9vp2et7-75" target="T8QVeg7aDXr-v9vp2et7-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="1060" />
+              <mxPoint x="770" y="965" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-75" value="Auto.Geschwindigkeit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1040" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8QVeg7aDXr-v9vp2et7-67" target="T8QVeg7aDXr-v9vp2et7-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="965" />
+              <mxPoint x="760" y="915" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8QVeg7aDXr-v9vp2et7-89" target="T8QVeg7aDXr-v9vp2et7-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="1026" />
+              <mxPoint x="910" y="1026" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-89" value="d : 5m/s2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1006" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-91" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1240" y="745" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-92" value="Bremsen : Entscheidung -&lt;br&gt;abstand" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-91">
+          <mxGeometry width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-93" value="od" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-91">
+          <mxGeometry y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-94" value="" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;flipH=0;flipV=1;direction=east;rotation=0;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-91">
+          <mxGeometry x="170" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-95" value="r" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-91">
+          <mxGeometry x="150" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-96" value="bd" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-91">
+          <mxGeometry y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8QVeg7aDXr-v9vp2et7-38" target="T8QVeg7aDXr-v9vp2et7-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="965" />
+              <mxPoint x="1220" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-108" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1010" y="445" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-109" value="&lt;br&gt;Notbremsen : Entscheidung -&amp;nbsp;&lt;br&gt;notbremsen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-108">
+          <mxGeometry width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-110" value="überfahrbar" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-108">
+          <mxGeometry y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-111" value="" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;flipH=0;flipV=1;direction=east;rotation=0;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-108">
+          <mxGeometry x="170" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-112" value="r" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-108">
+          <mxGeometry x="150" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-113" value="schneller" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-108">
+          <mxGeometry y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-114" value="bremsen" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;" vertex="1" parent="T8QVeg7aDXr-v9vp2et7-108">
+          <mxGeometry y="141" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8QVeg7aDXr-v9vp2et7-94" target="T8QVeg7aDXr-v9vp2et7-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1480" y="840" />
+              <mxPoint x="1480" y="660" />
+              <mxPoint x="1220" y="660" />
+              <mxPoint x="1220" y="700" />
+              <mxPoint x="970" y="700" />
+              <mxPoint x="970" y="601" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8QVeg7aDXr-v9vp2et7-61" target="T8QVeg7aDXr-v9vp2et7-113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="825" />
+              <mxPoint x="840" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8QVeg7aDXr-v9vp2et7-48" target="T8QVeg7aDXr-v9vp2et7-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="445" />
+              <mxPoint x="800" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-118" value="Auto.Notbrems.Entscheidung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="520" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8QVeg7aDXr-v9vp2et7-111" target="T8QVeg7aDXr-v9vp2et7-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-121" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Entscheidung - schneller&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;{ IF rv &amp;lt; 0 THEN&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;result = yes&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ELSE&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;result = no&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ENDIF }&lt;/span&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;rv: km/h&lt;br&gt;result: Decision Type&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1530" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-122" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Bremsweg&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;{m = (((cv*1000)/3600)-((ov*1000)/3600))/(2*bc)}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;ov: km/h&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;cv: km/h&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;bc: m/s2&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;m: m&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1270.0000000000002" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-124" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Entscheidung - überfahrbar&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;{ IF oh &amp;lt; ch AND ow &amp;lt; cw THEN&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;result = yes&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ELSE&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;result = no&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ENDIF }&lt;/span&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;oh: cm&lt;br&gt;ch: cm&lt;br&gt;ow: cm&lt;br&gt;cw: cm&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;result: Decision Type&lt;/span&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1530" width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-126" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Geschwindigkeit&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;{v = vv + rv}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;rv: km/h&lt;br&gt;vv: km/h&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;v: km/h&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1270.0000000000002" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-127" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Entscheidung - notbremsen&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;{ IF !schneller AND !überfahrbar AND bremsen THEN&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;result = yes&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ELSE&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;result = no&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ENDIF }&lt;/span&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;schneller: Decision Type&lt;br&gt;überfahrbar: Decision Type&lt;br&gt;bremsen: Decision Type&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;result: Decision Type&lt;/span&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1530" width="200" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="T8QVeg7aDXr-v9vp2et7-128" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Entscheidung - abstand&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;{ IF bd + 10% &amp;lt;= od THEN&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;result = yes&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ELSE&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;result = no&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ENDIF }&lt;/span&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;od: m&lt;br&gt;bd: m&lt;br&gt;result: Decision Type&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1270.0000000000002" width="200" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
