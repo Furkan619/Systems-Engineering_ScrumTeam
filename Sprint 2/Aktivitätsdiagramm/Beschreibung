@@ -1,0 +1,9 @@
+Beschreibung der letzten Version:
+
+Die Aktivität wird gestartet, indem die Sensordaten von den verschiedenen Sensoren erfasst
+und an Bordcomputer übermittelt werden. Dort erfolgt die Fusionierung der Daten, um ein
+detailliertes Bild der Umgebung zu erstellen. Die fusionierten Daten werden analysiert, um
+die Umgebung zu interpretieren und Hindernisse zu identifizieren. 
+Basierend auf dieser umfassenden Wahrnehmung und Analyse der Umgebung plant der
+Bordcomputer eine Route. Daraufhin wird eine Kurzzeitroute durchgeführt, worin die Länge vordefiniert wird (z.B. soll für 2 Sekunden die Route durchgeführt werden).  Nach Durchführung der Route überprüft das System, ob das Ziel erreicht wurde. Ist das Ziel erreicht, endet die Aktivität.
+Falls dies nicht der Fall ist, so wird der Durchgang erneut durchgeführt, beginnend mit dem Empfang neuer Sensordaten. Bei der Aktivität „Planung der Route“ wird die Route auch ständig aktualisiert, falls Hindernisse oder ähnliches ergeben.
