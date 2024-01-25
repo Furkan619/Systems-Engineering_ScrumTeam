@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net" modified="2024-01-25T17:06:26.447Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="I27X6g3wXTWdzz5w_CFh" version="22.1.22" type="device">
+  <diagram name="Seite-1" id="H4-vhZKG2-ZiEAjaF5Ar">
+    <mxGraphModel dx="4571" dy="2522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fWU5p7PfZmMQM1h351pz-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Sicherheit&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System muss Gefahren in Echtzeit erkennen und auf sie reagieren.&quot;&lt;br&gt;Id=&quot;1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-91.5" y="-174" width="200" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="fWU5p7PfZmMQM1h351pz-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Routenplanung&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System wählt die optimalen Routen auf der Grundlage von Zielort, Verkehrsbedingungen und anderen Faktoren&quot;&lt;br&gt;Id=&quot;2&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="806" y="-174" width="264" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="PmRN2bCEu7-0zxg3q_O8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;" edge="1" parent="1" source="fWU5p7PfZmMQM1h351pz-5" target="fWU5p7PfZmMQM1h351pz-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-279" y="68" />
+              <mxPoint x="9" y="68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fWU5p7PfZmMQM1h351pz-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Prädiktive Analyse&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System soll Sensordaten und maschinelles Lernen nutzen, um das Verhalten anderer Verkehrsteilnehmer vorherzusagen&quot;&lt;br&gt;Id=&quot;1.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-392" y="243" width="242" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="PmRN2bCEu7-0zxg3q_O8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;" edge="1" parent="1" source="fWU5p7PfZmMQM1h351pz-6" target="fWU5p7PfZmMQM1h351pz-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="68" />
+              <mxPoint x="9" y="68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fWU5p7PfZmMQM1h351pz-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Echtzeit-Anpassung&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System muss sich ständig aktualisieren und an die sich verändernden Bedingungen anpassen können.&quot;&lt;br&gt;Id=&quot;1.3“&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="167" y="243" width="255" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="PmRN2bCEu7-0zxg3q_O8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;" edge="1" parent="1" source="61W9xjHxhKiY_UhaflmL-4" target="fWU5p7PfZmMQM1h351pz-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8" y="53" />
+              <mxPoint x="9" y="53" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="61W9xjHxhKiY_UhaflmL-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Funktionale Sicherheit&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;&lt;span style=&quot;caret-color: rgb(55, 65, 81); -webkit-text-size-adjust: 100%;&quot;&gt;Das System muss den Sicherheitsstandards entsprechen und ausfallsichere Mechanismen verwenden, um die Zuverlässigkeit und Redundanz des Systems zu gewährleisten.&lt;/span&gt;&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Id=&quot;1.2&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="243" width="277" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="bklmaFfnvNQGVeUy5tc5-1" value="req [requirement] Trajektorienplanung [Autonomes Fahrzeug Subsysteme]" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=258;height=35;" parent="1" vertex="1">
+          <mxGeometry x="-431" y="-193" width="1839" height="728" as="geometry" />
+        </mxCell>
+        <mxCell id="PmRN2bCEu7-0zxg3q_O8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;" edge="1" parent="1" source="fWU5p7PfZmMQM1h351pz-5" target="fWU5p7PfZmMQM1h351pz-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-279" y="243" as="sourcePoint" />
+            <mxPoint x="9" y="32" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-279" y="68" />
+              <mxPoint x="9" y="68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmRN2bCEu7-0zxg3q_O8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;" edge="1" parent="1" source="PmRN2bCEu7-0zxg3q_O8-7" target="fWU5p7PfZmMQM1h351pz-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="648" y="77" />
+              <mxPoint x="938" y="77" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmRN2bCEu7-0zxg3q_O8-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Wetterbedingungen&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System beachtet aktuelle Wetterbedingungen, um die Routenplanung an die jeweiligen Wetterverhältnisse anzupassen. &quot;&lt;br&gt;Id=&quot;2.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="516" y="243" width="264" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="PmRN2bCEu7-0zxg3q_O8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;" edge="1" parent="1" source="PmRN2bCEu7-0zxg3q_O8-8" target="fWU5p7PfZmMQM1h351pz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PmRN2bCEu7-0zxg3q_O8-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Straßenbedingungen&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System analysiert den Zustand der Straßen, einschließlich Baustellen, Straßensperrungen oder temporärer Hindernisse, um die Routenplanung entsprechend anzupassen und den schnellsten und effizientesten Weg zu wählen.&quot;&lt;br&gt;Id=&quot;2.2&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="806" y="243" width="264" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="PmRN2bCEu7-0zxg3q_O8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;" edge="1" parent="1" source="PmRN2bCEu7-0zxg3q_O8-9" target="fWU5p7PfZmMQM1h351pz-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1228" y="77" />
+              <mxPoint x="938" y="77" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmRN2bCEu7-0zxg3q_O8-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Aktualisierungsfähigkeit&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System ermöglicht die regelmäßige Aktualisierung seiner Algorithmen und Datenquellen, um stets auf aktuelle Verkehrsbedingungen und andere Einflussfaktoren reagieren zu können.&quot;&lt;br&gt;Id=&quot;2.3&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1096" y="243" width="264" height="228" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
